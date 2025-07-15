@@ -1,0 +1,29 @@
+{ 
+    "doc": 
+        {
+            "name":"A00037",
+            "owner":"Administrator",
+            "creation":"2025-07-02+13:31:44.466340",
+            "modified":"2025-07-02+13:54:35.775775",
+            "modified_by":"Administrator",
+            "docstatus":0,
+            "idx":0,
+            "workflow_state":"Active",
+            "asset_tag":"iPXR",
+            "series":"XR",
+            "description":"iPhone",
+            "date_purchased":"2025-07-02",
+            "manufacturer":"M00038",
+            "manufacturer_name":"Apple",
+            "serial_number":"IPXR0001",
+            "model":"MODEL00039",
+            "block_number":0,
+            "cost":12000,
+            "number_of_repairs":0,
+            "location":"LOC-00017",
+            "asset_class":"AC00001",
+            "asset_class_name":"Pump",
+            "doctype":"Asset",
+            "__last_sync_on":"2025-07-03T06:45:34.450Z"
+        }
+}

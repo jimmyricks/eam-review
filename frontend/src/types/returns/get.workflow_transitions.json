@@ -1,0 +1,25 @@
+{
+	"message": [
+		{
+			"name": "2u8fdce0mk",
+			"owner": "Administrator",
+			"creation": "2025-06-18 17:55:27.214475",
+			"modified": "2025-06-18 18:04:40.367616",
+			"modified_by": "Administrator",
+			"docstatus": 0,
+			"idx": 4,
+			"state": "Active",
+			"action": "Start Maintenance",
+			"next_state": "Under Maintenance",
+			"allowed": "System Manager",
+			"allow_self_approval": 1,
+			"send_email_to_creator": 0,
+			"condition": null,
+			"workflow_builder_id": null,
+			"parent": "Asset",
+			"parentfield": "transitions",
+			"parenttype": "Workflow",
+			"doctype": "Workflow Transition"
+		}
+	]
+}
